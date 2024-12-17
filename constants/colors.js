@@ -1,0 +1,6 @@
+export const COLORS = {
+  PURPLE400: "#885c74",
+  PURPLE500: "#7e5069",
+  PURPLE600: "#6D435A",
+  YELLOW300: "#EFD6AC",
+};
