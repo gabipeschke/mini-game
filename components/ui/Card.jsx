@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     marginTop: 36,
     marginHorizontal: 24,
     padding: 16,
-    backgroundColor: COLORS.PURPLE500,
+    backgroundColor: COLORS.PURPLE[500],
     borderRadius: 8,
     elevation: 4 /* elevation é uma prop apenas do android*/,
     shadowColor: "black" /* only ios*/,

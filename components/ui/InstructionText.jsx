@@ -10,7 +10,7 @@ export default InstructionText;
 
 const styles = StyleSheet.create({
 	text: {
-		color: COLORS.YELLOW300,
+		color: COLORS.YELLOW[300],
 		fontSize: 24
 	}
 });

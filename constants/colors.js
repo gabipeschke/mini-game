@@ -1,6 +1,12 @@
 export const COLORS = {
-  PURPLE400: "#885c74",
-  PURPLE500: "#7e5069",
-  PURPLE600: "#6D435A",
+  PURPLE: {
+    400: "#885c74",
+    500: "#7e5069",
+    600: "#6D435A",
+  },
+  YELLOW: {
+    300: "#EFD6AC",
+  },
+
   YELLOW300: "#EFD6AC",
 };
